@@ -17,7 +17,7 @@ export function Footer(){
                     <nav className="flex flex-col md:flex-row items-center gap-4 text-sm text-muted-foreground">
                         <Link href="/termos-de-uso" className="hover:text-primary">Termos de Uso</Link>
                         <Link href="/politica-de-privacidade" className="hover:text-primary">Política de Privacidade</Link>
-                        <Link href="/feedbacl" className="hover:text-primary">Feedbackl</Link>
+                        <Link href="/feedback" className="hover:text-primary">Feedback</Link>
                     </nav>
                 </div>
             </div>
